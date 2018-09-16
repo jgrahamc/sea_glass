@@ -33,8 +33,8 @@ protect the cable once in place I use the Kintsu Glue to make a little
 strain relief grommet. It also covers the sharp edges of the drilled
 glass.
 
-![Drilled glass](images/drilled.jpg?raw=true)
-![Strain Relief](images/strain.jpg?raw=true)
+![Drilled glass](images/drilled_glass.jpg?raw=true "Hole Drilled in Glass")
+![Strain Relief](images/strain.jpg?raw=true "Kintsu Strain Relief")
 
 The code is pretty simple. It uses the [AdaFruit Neopixel
 library](https://github.com/adafruit/Adafruit_NeoPixel) to drive the
