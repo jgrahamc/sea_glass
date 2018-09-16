@@ -27,7 +27,7 @@ This little project was made from things I had lying around or found:
 
 # Steps
 
-I first drilled a hole in the glass using a ceramic drill. The whole
+I first drilled a hole in the glass using a ceramic drill. The hole
 is there do that the cable from the wall wart can pass through. To
 protect the cable once in place I use the Kintsu Glue to make a little
 strain relief grommet. It also covers the sharp edges of the drilled
