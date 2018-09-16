@@ -12,7 +12,7 @@ It's used to power four LEDs hidden inside a collection of sea glass
 found on a beach and kept inside an old glass jar. It makes a simple
 night light.
 
-[![Breathing](https://img.youtube.com/vi/ffN5xQI3ER4/0.jpg)](https://www.youtube.com/watch?v=ffN5xQI3ER4)
+[![Video of the Breathing Night Light](https://img.youtube.com/vi/ffN5xQI3ER4/0.jpg)](https://www.youtube.com/watch?v=ffN5xQI3ER4)
 
 # Parts
 
