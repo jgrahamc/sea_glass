@@ -55,3 +55,18 @@ The electronics are simply buried in the sea glass.
 
 ![Buried in Sea Glass](images/buried1.jpg?raw=true)
 ![Buried in Sea Glass](images/buried2.jpg?raw=true)
+
+# Breathing
+
+The breathing is based on the old "sleep LED" on Macs and the
+explanation found
+[here](https://sean.voisen.org/blog/2011/10/breathing-led-with-arduino/). The
+formula for the LED brightness is
+
+![Formula](images/formula.jpg?raw=true)
+
+where x is the number of milliseconds since start. It looks like this when
+plotted (there's a sharper intake of breath than exhalation):
+
+![Plot](images/plot.png?raw=true)
+
